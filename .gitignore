@@ -95,3 +95,27 @@ app.*.map.json
 .env
 .env.staging
 .env.production
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# Config files
+.env.local
+config.local.dart
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.code-workspacespace
+*.sublime-**.sublime-*
+
+# OS
+.DS_Store
+Thumbs.dbs.db
+*.swp
+*.swo*.swo
+
+
+
